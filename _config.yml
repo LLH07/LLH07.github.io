@@ -18,9 +18,9 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: Finance Protein 財金蛋白                         # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: 投資、程式、人生   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
@@ -43,11 +43,10 @@ social:
   email: example@doamin.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://github.com/LLH07       # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.facebook.com/lin.techawk/
+    - https://www.linkedin.com/in/lung-hung-blair-lin-645a85194/
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
