@@ -23,9 +23,7 @@ title: 財金蛋白                         # the main title
 tagline: 投資、程式、人生   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  Finance X Coding X Life
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://github.com/LLH07/LLH07.github.io'
