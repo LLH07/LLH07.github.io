@@ -1,0 +1,62 @@
+---
+layout: "post"
+title: About me
+date: 2022-01-31
+author:
+  name: Lung Hung Lin
+  link: https://www.linkedin.com/in/lung-hung-blair-lin-645a85194/
+math: true
+mermaid: true
+---
+
+## 記錄自己成長的地方
+
+我是在千禧年出生的台灣高雄人，典型的 **ISTJ**。 
+
+大學唸的是金融，也喜歡金融市場瞬息萬變的環境。從升大一的暑假開始自學程式，說起來真的是誤打誤撞，進了金融系後才知道這門學科可以跟程式、統計等知識有很好的連結。
+
+▶️而我成立【財金蛋白】的初衷很簡單: 希望記錄自己的成長並與所有一樣渴望財富自由的你們 (我知道沒有人不想 FIRE 的) 分享這段路。  
+
+市面上有許多【教你財富自由】的產品，不管是書籍、粉絲團、付費會員等等。我並不是來 diss 他們的，但我總覺得，其實很多事情是可以用【倖存者偏差】解釋的。  
+
+他們成功的關鍵，或許不是他們寫在書/課程裡的東西，而是某些更隨機的事物。  
+當然，我不否認成功需要運氣，但我認為【過程比結果更重要】。  
+
+所以我選擇**建立一個自己的網站，紀錄自己學習的心得、走過的路。**  
+不論未來的我是否成功達成目標，只願將來的我在回首過往時，能藉由這個網站，毫無悔恨的告訴自己:「我確確實實努力過了!」
+
+▶️聯絡我:
+
+- [LinkedIn](https://www.linkedin.com/in/lung-hung-blair-lin-645a85194/)
+
+- [Gmail](lunghung.llh.blog@gmail.com)
+
+- [FB: 財金蛋白](https://lnkd.in/gubi5MY6)
+
+- [Github](https://github.com/LLH07)
+
+---
+
+I was born in Kaohsiung, Taiwan on 2000.
+
+My major is Finance/Economics (double major). I like to feel the pulse of the financial markets, on top of that, I try my best to implement financial strategies/theories into coding. 
+
+There has been quite a few complaints about the depressing economic situations in Taiwan, in particular, younger generations are dissatisfied with the **extremely high house price**, **uneven distribution of wealth**, and so on and so forth.  
+
+▶️Several years later, it doesn't matter whether I reach the goals that I set to myself or not, what DOES matter is that **I PROVE to myself that I try hard on my prime years and I get NOTHING TO REGRET.**
+
+▶️Anyone who would like to contact me please use the following links, thank you:
+
+- [LinkedIn](https://www.linkedin.com/in/lung-hung-blair-lin-645a85194/)
+
+- [Gmail](lunghung.llh.blog@gmail.com)
+
+- [FB: 財金蛋白](https://lnkd.in/gubi5MY6)
+
+- [Github](https://github.com/LLH07)
+
+---
+
+Great view on Yilan, Taiwan!
+
+<img src="https://lh3.googleusercontent.com/pw/AM-JKLUL_5LlbuHVIul_k0lwb6Mts1rQDIzgqHXP9FZ78KQoG5GgXPCLFa-C0kyY4-n1lZCJ_23PkJqm8qBBBDeVv-b3a9ikblG1gOUL33q-9O9YZcHgaqIJ1N9LhL3Fp1-9tBRhPuST0dUQWB97m1BQq6cj=w670-h893-no?authuser=0" alt="self_pic" style="zoom:67%;" />

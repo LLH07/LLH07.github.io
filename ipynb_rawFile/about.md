@@ -7,7 +7,6 @@
     "---\n",
     "layout: \"post\"\n",
     "title: About me\n",
-    "date: 2022-01-31\n",
     "author:\n",
     "  name: Lung Hung Lin\n",
     "  link: https://www.linkedin.com/in/lung-hung-blair-lin-645a85194/\n",
