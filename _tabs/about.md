@@ -27,12 +27,9 @@ mermaid: true
 
 ▶️聯絡我:
 
+- Gmail: lunghung.llh.blog AT gmail.com
 - [LinkedIn](https://www.linkedin.com/in/lung-hung-blair-lin-645a85194/)
-
-- [Gmail](lunghung.llh.blog@gmail.com)
-
 - [FB: 財金蛋白](https://lnkd.in/gubi5MY6)
-
 - [Github](https://github.com/LLH07)
 
 ---
@@ -47,12 +44,9 @@ There has been quite a few complaints about the depressing economic situations i
 
 ▶️Anyone who would like to contact me please use the following links, thank you:
 
+- Gmail: lunghung.llh.blog AT gmail.com
 - [LinkedIn](https://www.linkedin.com/in/lung-hung-blair-lin-645a85194/)
-
-- [Gmail](lunghung.llh.blog@gmail.com)
-
 - [FB: 財金蛋白](https://lnkd.in/gubi5MY6)
-
 - [Github](https://github.com/LLH07)
 
 ---
