@@ -6,6 +6,7 @@ author:
   link: https://www.linkedin.com/in/lung-hung-blair-lin-645a85194/
 math: true
 mermaid: true
+order: 4
 ---
 
 ## 記錄自己成長的地方
