@@ -25,9 +25,9 @@ order: 4
 ▶️聯絡我:
 
 - Gmail: lunghung.llh.blog AT gmail.com
-- [LinkedIn](https://www.linkedin.com/in/lung-hung-blair-lin-645a85194/)
-- [FB: 財金蛋白](https://lnkd.in/gubi5MY6)
-- [Github](https://github.com/LLH07)
+- [LinkedIn](https://www.linkedin.com/in/lung-hung-blair-lin-645a85194/){:target="_blank"}
+- [FB: 財金蛋白](https://lnkd.in/gubi5MY6){:target="_blank"}
+- [Github](https://github.com/LLH07){:target="_blank"}
 
 ---
 
@@ -42,9 +42,9 @@ On my earliy life, I have realized that I was not the cleverer students, therefo
 ▶️Anyone who would like to contact me please use the following links, thank you:
 
 - Gmail: lunghung.llh.blog AT gmail.com
-- [LinkedIn](https://www.linkedin.com/in/lung-hung-blair-lin-645a85194/)
-- [FB: 財金蛋白](https://lnkd.in/gubi5MY6)
-- [Github](https://github.com/LLH07)
+- [LinkedIn](https://www.linkedin.com/in/lung-hung-blair-lin-645a85194/){:target="_blank"}
+- [FB: 財金蛋白](https://lnkd.in/gubi5MY6){:target="_blank"}
+- [Github](https://github.com/LLH07){:target="_blank"}
 
 ---
 
