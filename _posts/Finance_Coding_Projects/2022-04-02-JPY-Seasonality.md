@@ -8,6 +8,15 @@ author:
   name: Lung Hung Lin
   link: https://www.linkedin.com/in/lung-hung-blair-lin-645a85194/ 
 ---
+- [三月的日幣季節性](#三月的日幣季節性)
+- [實測結論](#實測結論)
+- [EURJPY 回測 (1999-2021)](#eurjpy-回測-1999-2021)
+  - [引入相關套件 (以 ```dbnomics``` 套件取得 EURJPY 資料)](#引入相關套件-以-dbnomics-套件取得-eurjpy-資料)
+  - [自套件取得資料並計算報酬](#自套件取得資料並計算報酬)
+  - [畫出持有三個交易日的報酬情況](#畫出持有三個交易日的報酬情況)
+- [USDJPY 回測 (2017-2021)](#usdjpy-回測-2017-2021)
+- [附錄](#附錄)
+  
 ## 三月的日幣季節性
 近期在前大型銀行交易員 Brent Donnelly 的文章讀到日幣在三月有季節性的跌幅。 一些網路文章亦提到各種貨幣對的季節性，例如 [這篇文章](https://www.investopedia.com/articles/forex/07/forex_seasonality.asp){:target="_blank"} 與 [這篇文章](https://vantagepointtrading.com/forex-seasonality-usdjpy-seasonal-patterns/){:target="_blank"}。
 
@@ -167,12 +176,7 @@ plt.title('USDJPY 3 trading day return (Early April)')
 plt.gcf().autofmt_xdate()
 ```
 
-![pic3]()
-
-![pic4]()
-
-![pic5]()
 ---
-## 附錄:
-[GritFX VOL 25](https://financeprotein.com/macroeconomics/fx/GritFX-VOL25/){:target="_blank"}
-[程式碼檔案](){:target="_blank"}
+## 附錄
+- [GritFX VOL 25](https://financeprotein.com/macroeconomics/fx/GritFX-VOL25/){:target="_blank"}
+- [程式碼檔案](){:target="_blank"}
