@@ -9,3 +9,5 @@ mermaid: true
 order: 2
 ---
 GritFX 是我從 2021 年 9 月開始，每周都寫的文章系列，主要是紀錄對外匯市場的研究與想法。
+
+[GritFX pdf 檔案](https://drive.google.com/drive/folders/1T21bY47pQM8XpAVtmpIC0mbXrilfGzru?usp=sharing){:target="_blank"}
