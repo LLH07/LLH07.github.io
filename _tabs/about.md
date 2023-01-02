@@ -13,9 +13,11 @@ order: 4
 
 千禧年出生的台灣高雄人，典型的 **ISTJ**。專業是金融，但也喜歡程式與數學。
 
-我成立【財金蛋白】的初衷很簡單: 希望記錄自己的成長，若有榮幸也能讓觀看文章的大家一點啟發。  
+我成立【財金蛋白】的初衷很簡單: 希望記錄自己的成長，若有榮幸也能給觀看文章的大家一點啟發。  
 
-我從小就不是一個反應快的人，因此**只能藉由「堅持」才能勉強與比我聰明的人平起平坐**。但我相信是否能過好人生、成為自己想成為的人，最大的關鍵也是「堅持」而非先天的智商。    
+我從小就不是一個反應快的人，因此**只能藉由「堅持」才能勉強與比我聰明的人平起平坐**。但我相信是否能過好人生、成為自己想成為的人，最大的關鍵也是「堅持」而非先天的智商。   
+
+[紀錄生活的網站](https://lunghunglin.github.io/llh/){:target="_blank"}
 
 ▶️聯絡我:
 
@@ -29,9 +31,11 @@ order: 4
 I was born in Kaohsiung, Taiwan on 2000, a classical **ISTJ**. I specialize in Finance, but I also like coding and math.
 
 
-On my earliy life, I have realized that I was not the cleverer students, therefore **persistence** is the factor that made me be on a par with some smarter students. However, I do beleive that persistence is the more important factor when it comes to fulfilling the goals that one set to himself. 
+On my earliy life, I have re alized that I was not the cleverer students, therefore **persistence** is the factor that made me be on a par with some smarter students. However, I do beleive that persistence is the more important factor when it comes to fulfilling the goals that one set to himself. 
 
 I created this website to record my learning process, in the meantime, hopefully give my readers some insights.
+
+My Personal [blog](https://lunghunglin.github.io/llh/){:target="_blank"}
 
 ▶️Anyone who would like to contact me please use the following links, thank you:
 
