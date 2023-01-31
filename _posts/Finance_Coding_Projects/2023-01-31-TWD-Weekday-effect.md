@@ -4,6 +4,7 @@ title: USDTWD 的星期因素探討
 date: 2022-01-31 14:28:00 +0800
 categories: [Coding, Finance project]
 tags: [Backtest, Seasonality]
+math: true
 author:
   name: Lung Hung Lin
   link: https://www.linkedin.com/in/lung-hung-blair-lin-645a85194/ 
@@ -205,12 +206,14 @@ __init__()
 |標準差	|1.393	
 
 圖一
+
 ![pic1](https://lh3.googleusercontent.com/pw/AMWts8BHSVVqwBIy6I5Us7Ww6YuBmrGUDVt-Y_fXGOyaVuPJsHzufXESCOarG3LSvPUfAOdh4AN_i63oThwgXaEgm0ZCgwqMIW5B_CNEqo9MGsAWA1wsdfPedZKCPcZtl_3dUpilSVZj6cuS7cUg12EKvF6a=w382-h278-no?authuser=0)
 
 ## 三、實證結果
 圖二則為星期一至星期五每日報酬的直方圖，可以看到多數的日報酬介於 -1% 至 1% 區間，極端值也在 -2% 至 1.5% 之內。
 
 圖二
+
 ![pic2](https://lh3.googleusercontent.com/pw/AMWts8BKQwC49kjqxKVMwUHDkE9gDe3z6fWUgPvMRBSKNRBdnqHeQuiSrQDCkXGmHhg0HkAhz0n0GdnUQOox1cNfaI_08Gs-nd0HYPEcNGcQ4sOzrNylTL0s4VKaOa7f5YJwcskNVxvFQoWtYMj_ecJ4yhiu=w389-h278-no?authuser=0)
 
 表二為依照星期區分的統計值，除了一般的均值及標準差外，另外加入三階動差-偏態 (skewness)與四階動差-峰態 (Kurtosis)。偏態讓我們得以檢測資料分布是否偏向某一方，其公式為:
@@ -223,6 +226,7 @@ $$Skewness= \frac{n}{(n-1)(n-2)}×∑_{i=1}^n\frac{(x_i-\bar x)^3}{s^3}$$
 $$Kurtosis=\frac{1}{(n-1)×s^4}×∑_{i=1}^n(x_i-\bar x)^4 $$
 
 表二
+
 |星期一	|星期二	|星期三	|星期四	|星期五|
 |---	|---|---	|---|---|
 |平均數	|-0.013742	|0.017944	|0.001231	|-0.008164	|-0.015501
