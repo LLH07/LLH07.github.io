@@ -1,7 +1,7 @@
 ---
 layout: "post"
 title: USDTWD 的星期因素探討
-date: 2022-01-31 14:28:00 +0800
+date: 2023-01-31 14:28:00 +0800
 categories: [Coding, Finance project]
 tags: [Backtest, Seasonality]
 math: true
