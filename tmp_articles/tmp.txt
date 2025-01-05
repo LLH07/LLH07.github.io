@@ -1,0 +1,14 @@
+## Capital Allocation Line (CAL); 資本配置線
+### 起源
+我們的投資組合由**一個無風險性資產**與**一個風險性資產**組成，我們可以將投資組合的期望報酬由此兩個資產的預期報酬得出。
+### 數學推導
+假設，無風險性資產的報酬為 $r_f$，風險性資產的預期報酬為 $E[r_p]$，且分配 $y$ 在風險性資產，則得到 **Complete Portfolio $c$**，
+- 其預期報酬為:
+$$E[r_c] = yE[r_p]+(1-y)r_f = r_f + y[E[r_p]-r_f]$$
+- 投資組合變異數為:
+$$\sigma_c = \sqrt{y^2\sigma_p^2+(1-y)^2\sigma_f^2+2y(1-y)\sigma_{p,f}}$$
+
+由以上兩式可以得到:
+$E[r_c]=r_f+SR_p\sigma_c$ 且 $SR_p = \frac{E[r_p]-r_f}{\sigma_p}$
+
+### 畫出圖形及
